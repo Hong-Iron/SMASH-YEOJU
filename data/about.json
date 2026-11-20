@@ -1,0 +1,34 @@
+{
+ "region": "경기 여주시 교동",
+ "nameEn": "Yeoju Institute of Technology",
+ "added": "2026-11-01T02:27",
+ "rank": 120,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "KDU-WONJU",
+   "campus": "경동대학교 메디컬캠퍼스",
+   "km": 14.3
+  },
+  {
+   "code": "GANGDONG",
+   "campus": "강동대학교",
+   "km": 14.4
+  },
+  {
+   "code": "FEU",
+   "campus": "극동대학교",
+   "km": 15.9
+  },
+  {
+   "code": "TONGWON",
+   "campus": "동원대학교",
+   "km": 21.6
+  },
+  {
+   "code": "KTC",
+   "campus": "한국관광대학교",
+   "km": 22.6
+  }
+ ]
+}
